@@ -1,0 +1,58 @@
+2026-05-06T10:02:35+00:00 DEBUG #3486 - [New Request] GET /sportwearweb/wp-admin/admin.php
+2026-05-06T10:02:35+00:00 DEBUG #3486 - GET https://api.woocommerce.com/integrations/ppc/v1/customer/partners/K8SKZ36LQBWXJ/merchant-integrations/
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+2026-05-06T10:02:35+00:00 WARNING #3486 - [Error] Not Found CONTEXT: {"args":{"method":"GET","headers":{"Authorization":"Bearer token","Content-Type":"application/json"}},"response":{"headers":{},"body":"{"statusCode":404,"error":"Not Found","message":"Not Found"}","response":{"code":404,"message":"Not Found"},"cookies":[],"filename":null,"http_response":{"data":null,"headers":null,"status":null}}}
+2026-05-06T10:02:40+00:00 DEBUG #3133 - [New Request] GET /sportwearweb/wp-json/wc/v3/wc_paypal/webhooks
+2026-05-06T10:02:40+00:00 DEBUG #3133 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+2026-05-06T10:03:10+00:00 DEBUG #3943 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/login_link
+2026-05-06T10:03:10+00:00 INFO #3943 - Generating onboarding URL for: production-express_checkout-
+2026-05-06T10:03:11+00:00 DEBUG #3943 - POST https://api.woocommerce.com/integrations/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"return_url":"http:\/\/localhost\/sportwearweb\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway&ppcpToken=eyJrIjoicHJvZHVjdGlvbi1leHByZXNzX2NoZWNrb3V0LSIsInUiOjEsImgiOiI3ZjQ0M2Y4NjU1MWNmZjAzODBiMWRiNzdiNzZjNDA5NSJ9","return_url_description":"Return to your shop.","show_add_credit_card":false},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","TRACKING_SHIPMENT_READWRITE","BILLING_AGREEMENT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: a1322d13b64b6
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+2026-05-06T10:03:14+00:00 DEBUG #9033 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/login_link
+2026-05-06T10:03:14+00:00 DEBUG #9033 - Loaded onboarding URL from cache: production-express_checkout-
+2026-05-06T10:03:14+00:00 INFO #9033 - Using cached onboarding URL for: production-express_checkout-
+2026-05-06T10:03:14+00:00 DEBUG #3887 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/login_link
+2026-05-06T10:03:14+00:00 DEBUG #3887 - Loaded onboarding URL from cache: production-express_checkout-
+2026-05-06T10:03:14+00:00 INFO #3887 - Using cached onboarding URL for: production-express_checkout-
+2026-05-06T10:06:35+00:00 DEBUG #1251 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/authenticate/oauth
+2026-05-06T10:06:35+00:00 INFO #1251 - Storing one-time OAuth credentials... CONTEXT: {"shared_id":"BAAigRZJJO3uhvnyJctlotDPxY--BiWJzKxFJyq0rFVhf-QIBOttwa_slTS1AzdDIJGbbzXs4sq23O04ZI","auth_code":"C21AAOlItg6juCLg_x5zinafMKApKXO7TaIjU-d733c95sZESTCr24XN2AFrFFppqkRzDQavTpR-k_jPWG_wyJtqzkssecP1g","use_sandbox":false}
+2026-05-06T10:07:16+00:00 DEBUG #8583 - [New Request] GET /sportwearweb/wp-json/wc/v3/wc_paypal/webhooks
+2026-05-06T10:07:16+00:00 DEBUG #8583 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+2026-05-06T10:07:18+00:00 DEBUG #9170 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/login_link
+2026-05-06T10:07:18+00:00 DEBUG #9170 - Loaded onboarding URL from cache: production-express_checkout-
+2026-05-06T10:07:18+00:00 INFO #9170 - Using cached onboarding URL for: production-express_checkout-
+2026-05-06T10:07:21+00:00 DEBUG #6533 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/login_link
+2026-05-06T10:07:21+00:00 DEBUG #6533 - Loaded onboarding URL from cache: production-express_checkout-
+2026-05-06T10:07:21+00:00 INFO #6533 - Using cached onboarding URL for: production-express_checkout-
+2026-05-06T10:07:21+00:00 DEBUG #5966 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/login_link
+2026-05-06T10:07:21+00:00 DEBUG #5966 - Loaded onboarding URL from cache: production-express_checkout-
+2026-05-06T10:07:21+00:00 INFO #5966 - Using cached onboarding URL for: production-express_checkout-
+2026-05-06T10:08:15+00:00 DEBUG #6175 - [New Request] POST /sportwearweb/wp-json/wc/v3/wc_paypal/authenticate/oauth
+2026-05-06T10:08:15+00:00 INFO #6175 - Storing one-time OAuth credentials... CONTEXT: {"shared_id":"BAAw24fsrUMzaDNAgQC6a_0Tt-P_UGjqafz8uI0UbfgfDd60w7x0kr6onuAMDBqNdmf6ofu6dT-yoCMRlo","auth_code":"C21AANHEfkgnW7m7Btl0JJEOR2rHYFZqIfz60yFbxWKy371PWSb4pWwLq8BHMDr4f0KhgidbG2r9gEmJwVnP97QuYNwx9AlZA","use_sandbox":false}

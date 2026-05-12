@@ -1,0 +1,178 @@
+# Translation of Themes - Blossom Consulting in Vietnamese
+# This file is distributed under the same license as the Themes - Blossom Consulting package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-04-06 04:54:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Blossom Consulting\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blossom Consulting is free child theme of Blossom Coach WordPress theme. Blossom Consulting is a perfect choice to create websites for consultants and consulting companies, coaches (life coach, health coach), speakers, business and creative agencies, content marketers, affiliate bloggers and psychologists. The theme is also multi-purpose. So you can also use it to build small business (restaurants/cafe, travel, education, hotel, construction, events, wedding planners, fitness, affiliate, fashion, lawyer, sport/medical shops, spa/temas, political), portfolio, church, online agencies and firms, charity, ecommerce (WooCommerce), and freelancers websites. It is responsive, Schema.org compatible, SEO friendly, RTL compatible, speed optimized, and translation ready. Check theme details at https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/, demo at https://blossomthemes.com/theme-demo/?theme=blossom-consulting, read the documentation at https://docs.blossomthemes.com/docs/blossom-consulting/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Blossom Consulting là một giao diện con (child theme) miễn phí của Blossom Coach. Blossom Consulting là sự lựa chọn hoàn hảo để tạo website cho các chuyên gia tư vấn và công ty tư vấn, huấn luyện viên (cuộc sống và sức khỏe), diễn giả, các agency sáng tạo và kinh doanh, người làm tiếp thị nội dung, blogger làm affiliate và các nhà tâm lý học. Giao diện này cũng mang tính đa năng, vì vậy bạn có thể sử dụng nó để xây dựng các website doanh nghiệp nhỏ (nhà hàng/cà phê, du lịch, giáo dục, khách sạn, xây dựng, sự kiện, tiệc cưới, thể hình, affiliate, thời trang, luật sư, y tế, spa, chính trị), portfolio, nhà thờ, các đại lý trực tuyến, tổ chức từ thiện, thương mại điện tử (WooCommerce) và website cho freelancers. Giao diện này chuẩn responsive, tương thích với Schema.org, thân thiện với SEO, hỗ trợ đa ngôn ngữ, tương thích ngôn ngữ trái qua phải RTL và được tối ưu hóa về tốc độ. Hãy xem chi tiết giao diện tại https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/, bản dùng thử tại https://blossomthemes.com/theme-demo/?theme=blossom-consulting, đọc tài liệu hướng dẫn tại https://docs.blossomthemes.com/docs/blossom-consulting/, và nhận hỗ trợ tại https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blossom Consulting"
+msgstr "Blossom Consulting"
+
+#: functions.php:150
+msgid " Blossom Consulting | Developed By "
+msgstr "Blossom Consulting | Phát triển bởi"
+
+#: sections/shop.php:45
+msgid "Sold Out"
+msgstr "Đã bán hết"
+
+#: sections/shop.php:9
+msgid "Show your latest blog posts here. You can modify this section from Appearance > Customize > Front Page Settings > Shop Section."
+msgstr "Hiển thị bài viết blog mới nhất của bạn ở đây. Bạn có thể chỉnh sửa phần này từ Giao diện > Tùy chỉnh > Cài đặt trang chủ > Phần cửa hàng."
+
+#: inc/customizer.php:351
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Liên kết tài liệu: %1$sNhấp vào đây.%2$s"
+
+#: inc/customizer.php:349
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Liên kết demo: %1$sNhấp vào đây.%2$s"
+
+#: inc/customizer.php:336
+msgid "Demo & Documentation"
+msgstr "Demo và hướng dẫn"
+
+#: inc/customizer.php:327
+msgid "Product Four"
+msgstr "Sản phẩm thứ tư"
+
+#: inc/customizer.php:306
+msgid "Product Three"
+msgstr "Sản phẩm thứ ba"
+
+#: inc/customizer.php:285
+msgid "Product Two"
+msgstr "Sản phẩm thứ hai"
+
+#: inc/customizer.php:264
+msgid "Product One"
+msgstr "Sản phẩm thứ nhất"
+
+#: inc/customizer.php:239
+msgid "Section Content"
+msgstr "Phần nội dung"
+
+#: inc/customizer.php:229 inc/customizer.php:398
+msgid "Show your products here. You can modify this section from Appearance > Customize > Front Page Settings > Shop Section."
+msgstr "Hiển thị sản phẩm của bạn ở đây. Bạn có thể chỉnh sửa phần này từ Giao diện > Tùy chỉnh > Cài đặt trang chủ > Phần cửa hàng."
+
+#: inc/customizer.php:214
+msgid "Section Title"
+msgstr "Tiêu đề Section"
+
+#: inc/customizer.php:204 inc/customizer.php:391 sections/shop.php:8
+msgid "Shop"
+msgstr "mua hàng"
+
+#: inc/customizer.php:194
+msgid "Enable to show shop section."
+msgstr "Bật để hiện phần cửa hàng."
+
+#: inc/customizer.php:193
+msgid "Enable Shop Section"
+msgstr "Bật phần cửa hàng"
+
+#: inc/customizer.php:172
+msgid "Shop Section"
+msgstr "Phần cửa hàng"
+
+#: inc/customizer.php:161
+msgid "Banner Link"
+msgstr "Liên kết ảnh bìa"
+
+#: inc/customizer.php:137
+msgid "Banner Label"
+msgstr "Nhãn ảnh bìa"
+
+#: inc/customizer.php:128 inc/customizer.php:384 sections/banner.php:15
+msgid "Discover More"
+msgstr "Khám phá thêm"
+
+#: inc/customizer.php:112
+msgid "Sub Title"
+msgstr "Tiêu đề phụ"
+
+#: inc/customizer.php:103 inc/customizer.php:377 sections/banner.php:14
+msgid "Sally is a solution focused therapist offering brief and often single session therapy. She has built a reputation for engaging workshops on Solution Focused Brief Therapy and Single Session Therapy, and have recently started to put her courses online."
+msgstr "Sally là một nhà trị liệu tập trung vào giải pháp cung cấp liệu pháp trị liệu ngắn gọn và thường là đơn trị liệu. Cô đã xây dựng danh tiếng cho các hội thảo hấp dẫn về Liệu pháp ngắn gọn tập trung vào giải pháp và Liệu pháp đơn trị liệu, và gần đây đã bắt đầu đưa các khóa học của mình lên mạng."
+
+#: inc/customizer.php:87
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer.php:78 inc/customizer.php:370 sections/banner.php:13
+msgid "The Secrets to Successful Team Leadership"
+msgstr "Bí quyết để lãnh đạo nhóm thành công"
+
+#: inc/customizer.php:67
+msgid "Banner as Slider"
+msgstr "Ảnh bìa như là Slider"
+
+#: inc/customizer.php:66
+msgid "Static/Video Newsletter Banner"
+msgstr "Ảnh bìa bản tin tĩnh/video"
+
+#: inc/customizer.php:65
+msgid "Static/Video CTA Banner"
+msgstr "Biểu ngữ CTA tĩnh/video"
+
+#: inc/customizer.php:64
+msgid "Disable Banner Section"
+msgstr "Tắt phần ảnh bìa"
+
+#: inc/customizer.php:61
+msgid "Choose banner as static image/video or as a slider."
+msgstr "Chọn ảnh bìa dưới dạng hình ảnh/video tĩnh hoặc slider."
+
+#: inc/customizer.php:60
+msgid "Banner Options"
+msgstr "Tuỳ chọn ảnh bìa"
+
+#: inc/customizer.php:34
+msgid "Change the font size of your site title."
+msgstr "Thay đổi kích thước phông chữ của tiêu đề trang web của bạn."
+
+#: inc/customizer.php:33
+msgid "Site Title Font Size"
+msgstr "Kích thước phông chữ tiêu đề trang web"
+
+#: functions.php:152
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: functions.php:152
+msgid " Powered by %s"
+msgstr "Được cung cấp bởi %s"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: style.css functions.php:151
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"
+msgstr "https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"
