@@ -18,3 +18,10 @@ NGUYỄN HỒNG PHONG  :23810310433
 
 &#x09;- mk:123456
 
+
+
+link:
+-http://localhost/sportwearweb/
+deploy:
+-https://shopthethao.page.gd/
+
