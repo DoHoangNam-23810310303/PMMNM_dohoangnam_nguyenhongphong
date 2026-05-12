@@ -71,7 +71,7 @@ Các chức năng chính:
 ![Trang quản trị đơn hàng WooCommerce](docs/images/donhang.png)
 
 ## Link video demo
-- Đang cập nhật: https://drive.google.com/file/d/1p3eCPu_rpgtr54OckjxA7hUpNcwER15r/view?usp=sharing
+- https://drive.google.com/file/d/1kB3RnkTWulsbbo-sGZ0LGFWTu8VIHb9i/view?usp=sharing
 
 ## Link online đã deploy
 - https://shopthethao.page.gd/
